@@ -1,6 +1,4 @@
-# NEAR Protocol Rewards SDK
-
-> A transparent, metric-based rewards system for NEAR projects that directly ties incentives to development activity.
+ activity.
 
 <div align="center">
   
